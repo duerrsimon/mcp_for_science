@@ -1,4 +1,0 @@
-import{b as a,o as l,w as n,g as e,i,v as m,x as u,T as o}from"./modules/vue-D02mmGaM.js";import{I as d}from"./slidev/default-67pFyhS2.js";import{u as p,f as c}from"./slidev/context-BAnSZSU3.js";import{_}from"./index-CNud74jt.js";import"./modules/shiki-CkkJYn70.js";const f={__name:"slides.md__slidev_2",setup(v){const{$clicksContext:s,$frontmatter:r}=p();return s.setup(),(x,t)=>(l(),a(d,m(u(o(c)(o(r),1))),{default:n(()=>[t[0]||(t[0]=e("h1",null,"Agenda",-1)),t[1]||(t[1]=e("ul",null,[e("li",null,"Is AI making us more productive?"),e("li",null,"What is the Model Context Protocol (MCP)?"),e("li",null,"Examples of MCP for science"),e("li",null,"How to create an MCP server")],-1)),i(`
-You can have \`style\` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
-`)]),_:1},16))}},I=_(f,[["__scopeId","data-v-87a7964a"]]);export{I as default};
